@@ -1,2 +1,4 @@
-# CricHub
-A central hub for Cricket (The sport btw) and watching games.
+# CricHub is a website for the sport cricket
+## Currently under development.
+
+This repository is the source for CricHub.
